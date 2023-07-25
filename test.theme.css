@@ -57,8 +57,8 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.8);
-  --muted-color: rgba(255,255,255,0.4);
+  --channel-color: rgba(255,255,255,1);
+  --muted-color: rgba(255,255,255,0.35);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
