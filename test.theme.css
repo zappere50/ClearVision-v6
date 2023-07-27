@@ -18,7 +18,7 @@
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://preview.redd.it/vsixw3dyohf91.jpg?width=1080&format=pjpg&auto=webp&s=fd1c37c17d7ca6155e104de0cd02d0ab16d4e257');
+  --background-image: url('https://i.imgur.com/oY68zwp.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/oY68zwp.png');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
